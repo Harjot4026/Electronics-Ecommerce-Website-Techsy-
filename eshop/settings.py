@@ -128,14 +128,14 @@ STATICFILES_DIRS=[
    os.path.join(BASE_DIR,'static')
 ]
 
-RAZORPAY_KEY_ID='rzp_test_8YNSQsThsJYoBa'
-RAZORPAY_KEY_SECRET='AvXVWufD1ZIqifxqJM03YOYL'
+RAZORPAY_KEY_ID='##################'
+RAZORPAY_KEY_SECRET='##############'
 
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'hs100821@gmail.com'
-EMAIL_HOST_PASSWORD = 'dcvobdvmyhrrmpkz'
+EMAIL_HOST_PASSWORD = '#############'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
