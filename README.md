@@ -1,1 +1,1 @@
-#This is the Electronics Ecommerce Website build using django. Please adjust the settings.py according to your convenience
+# This is the Electronics Ecommerce Website build using django. Please adjust the settings.py according to your convenience
